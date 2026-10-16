@@ -1,0 +1,62 @@
+[
+ {
+  "bytes": 111840,
+  "file": "spring_01.webp",
+  "sha256": "c51bd104a7f696b06c2e439fdbd5876d925c3995b3183621d5ba37d2843a6f0e"
+ },
+ {
+  "bytes": 82818,
+  "file": "spring_02.webp",
+  "sha256": "053d73c61aaac6fc2fb01b3b567ae4174fa8bd1a4e6b4765cd51a8ab9edeadd2"
+ },
+ {
+  "bytes": 83880,
+  "file": "spring_03.webp",
+  "sha256": "a87a2c7d6c926deea0f31280a187ae7280a1e1f753c8647ae52f56846dbb36d6"
+ },
+ {
+  "bytes": 116620,
+  "file": "spring_04.webp",
+  "sha256": "57254b20f8bffed0bd12e7d620271f225acab8402ac8d7768f7f77da7a51daf9"
+ },
+ {
+  "bytes": 83950,
+  "file": "spring_05.webp",
+  "sha256": "d12d60727141f56bf4f1b57cb8c9829b491c585a1bcad58e35bfa475f75fe370"
+ },
+ {
+  "bytes": 68872,
+  "file": "spring_06.webp",
+  "sha256": "0773e9c0e0ad50185377318382ec1b664e1a463ecc2ffce692c39917bd809872"
+ },
+ {
+  "bytes": 111952,
+  "file": "spring_07.webp",
+  "sha256": "706cc34f68cb9e4d5171eaa33d0ecc94aa3f9b17678dd135a348981de81f9dd4"
+ },
+ {
+  "bytes": 84328,
+  "file": "spring_08.webp",
+  "sha256": "556330a983a844112cacbafc8d4f4a06472ffd40f7272a7d01a9401aa21be01d"
+ },
+ {
+  "bytes": 191126,
+  "file": "spring_09.webp",
+  "sha256": "71602b5c1c1a98693b21c7b238b7144addb46f889ad712cf0669c1986b9447fc"
+ },
+ {
+  "bytes": 69348,
+  "file": "spring_10.webp",
+  "sha256": "3d6db7a4b2db775a54fbadef178a7646e16ac6da8ae2fd262582a91addd974af"
+ },
+ {
+  "bytes": 88560,
+  "file": "spring_11.webp",
+  "sha256": "9f91ac01f2def5e9c1adcfb6a7038e136aea8bef1d7bd72c1f8cc6dbfa4891b8"
+ },
+ {
+  "bytes": 123930,
+  "file": "spring_12.webp",
+  "sha256": "87a98917a04b4bd39bd28341a52b2b8dfe76c03c2d232e15abdb4ce94af70654"
+ }
+]

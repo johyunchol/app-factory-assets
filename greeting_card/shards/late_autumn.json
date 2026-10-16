@@ -1,0 +1,98 @@
+[
+ {
+  "bytes": 126576,
+  "file": "late_autumn_01.webp",
+  "sha256": "116012ba665b15077cc352c2e269a1a13149e8b0eda4b52718ffb06a9cb7b211"
+ },
+ {
+  "bytes": 79388,
+  "file": "late_autumn_02.webp",
+  "sha256": "c71daf0c2160527099506d81b1f906251e4124e2eee183450458a91fb7c484ae"
+ },
+ {
+  "bytes": 98984,
+  "file": "late_autumn_03.webp",
+  "sha256": "053fe86574bbeb17414a9ea7eb0a91a5c943c5ab4ba07c6fd51e36368a56cd9b"
+ },
+ {
+  "bytes": 180056,
+  "file": "late_autumn_04.webp",
+  "sha256": "6b768d8fa4cb69922fe56d983eaefec1332053c553c1512684adc223d1161c8c"
+ },
+ {
+  "bytes": 172656,
+  "file": "late_autumn_05.webp",
+  "sha256": "36032f29e9507bb2ed612d636efbf32c1de05c043172b8c4a123f3fe847d465d"
+ },
+ {
+  "bytes": 179770,
+  "calm": true,
+  "file": "late_autumn_06.webp",
+  "sha256": "5ae81ab041dabe07c39f2057956240739775f25cbae5ae74c699c72a58a81409"
+ },
+ {
+  "bytes": 190120,
+  "calm": true,
+  "file": "late_autumn_07.webp",
+  "sha256": "ae21fc1cce660d441b9787e8faadadbf1e40f83b1572f3c7855b22ce34f9cf4f"
+ },
+ {
+  "bytes": 147366,
+  "file": "late_autumn_08.webp",
+  "sha256": "d56e1935957b8b7124c3a84e6dbe667fb452ff53d601ad0e18171d65971dfcc1"
+ },
+ {
+  "bytes": 102354,
+  "file": "late_autumn_09.webp",
+  "sha256": "27aff680d2cd3d9cb01fb7f8b11580d254639f254af6ca8ce0ff54664871a24d"
+ },
+ {
+  "bytes": 98150,
+  "file": "late_autumn_10.webp",
+  "sha256": "04c498f6ce60af063d760ae7e5acdcb1052adcdf9183b29b7a49ab78a71f9c32"
+ },
+ {
+  "bytes": 197854,
+  "file": "late_autumn_11.webp",
+  "sha256": "143f36e1508e77df99538a8203a1b3b39b9a88710058819f15e334b386972129"
+ },
+ {
+  "bytes": 185334,
+  "file": "late_autumn_12.webp",
+  "sha256": "d1817d2b9c2764ee5dee7b56bc2c2a3f4e233cffd3d448dcaf627d0dcb9abdec"
+ },
+ {
+  "bytes": 85274,
+  "calm": true,
+  "file": "late_autumn_13.webp",
+  "sha256": "64dd5a5f20cfb53c6656146dfabf474e6061be213e56d327d771b3f335d2ba76"
+ },
+ {
+  "bytes": 132464,
+  "file": "late_autumn_14.webp",
+  "sha256": "f8ec66d7088ba6f0f6b7b808abe5c5ef203648a59eafc9b9b8304126b22a8810"
+ },
+ {
+  "bytes": 184166,
+  "file": "late_autumn_15.webp",
+  "sha256": "071bb7a3257e663f7d8b53e33d2687c579ffd41f8eeca477ff9a3eea0b201946"
+ },
+ {
+  "bytes": 188670,
+  "calm": true,
+  "file": "late_autumn_16.webp",
+  "sha256": "bab7704e5c9237dbb344e2afb4ecfd1047e04b31a1566d398b6fcc1e13b80bde"
+ },
+ {
+  "bytes": 99444,
+  "calm": true,
+  "file": "late_autumn_17.webp",
+  "sha256": "b9729e38e6fd00422d03c24f7e272afb14a9fb6c0e7ea8478e261b3d244b1cfb"
+ },
+ {
+  "bytes": 97394,
+  "calm": true,
+  "file": "late_autumn_18.webp",
+  "sha256": "654197be6d0eea8340dddd122b933409a0671157519ffd77d4ca58ca2b5bceae"
+ }
+]

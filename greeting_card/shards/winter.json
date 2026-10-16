@@ -1,0 +1,180 @@
+[
+ {
+  "bytes": 104812,
+  "file": "winter_01.webp",
+  "sha256": "6e3dfa5e2ac75e735e1b6efe2578047a69a178b22b5c393a3a49fe6d2b6b4ce6",
+  "snow": true
+ },
+ {
+  "bytes": 102208,
+  "file": "winter_02.webp",
+  "sha256": "261e5dffa45ea7c812243bbd162cc42ab050bd3610dad76f1cf19807ada0e28b",
+  "snow": true
+ },
+ {
+  "bytes": 164654,
+  "calm": true,
+  "file": "winter_03.webp",
+  "sha256": "09112f4fe8266bab0a92753026093b1479d2f55c31776e23e57d883cc83d6391",
+  "snow": true
+ },
+ {
+  "bytes": 130622,
+  "file": "winter_04.webp",
+  "sha256": "59356cdac56102df742017a980cd43fc28f1156e91c464011dbdfbc3a86ea291",
+  "snow": true
+ },
+ {
+  "bytes": 139072,
+  "file": "winter_05.webp",
+  "sha256": "4264ae4af9252b5b6bd56c016c284afdf18203c65328ec800b731168fe5c8a72",
+  "snow": true
+ },
+ {
+  "bytes": 121280,
+  "file": "winter_06.webp",
+  "sha256": "e29e210600890107436ba45a0888f16b0424d78bbf0c9012faf0a4aa8aec3886",
+  "snow": true
+ },
+ {
+  "bytes": 93264,
+  "file": "winter_07.webp",
+  "sha256": "24f9e1600ed1b0f58f69f1f6b076ff322bb45cbf73981409cab869d0551847f3",
+  "snow": true
+ },
+ {
+  "bytes": 136286,
+  "calm": true,
+  "file": "winter_08.webp",
+  "sha256": "8ee9378d53927443d27f454e91b8aab9dfb0a91ffecd3754a23fa5f82d75d576",
+  "snow": true
+ },
+ {
+  "bytes": 160004,
+  "file": "winter_09.webp",
+  "sha256": "64f2a98d3a4004ab673371d0b90f2ed9c57616b0b41c6be67d8196994abeb40d",
+  "snow": true
+ },
+ {
+  "bytes": 106112,
+  "calm": true,
+  "file": "winter_10.webp",
+  "sha256": "3341503e0692464334072675ac9a5535c8e98f8fd3329f67c52dd5561a2a0167",
+  "snow": true
+ },
+ {
+  "bytes": 106526,
+  "file": "winter_11.webp",
+  "sha256": "46e5227b1d33e0781df57e5c82af943f7a6c80749c58fe9d51279233433055d6",
+  "snow": true
+ },
+ {
+  "bytes": 178646,
+  "calm": true,
+  "file": "winter_12.webp",
+  "sha256": "f66a79f5ae34da54015453bc1c8520c8cf402aab8a3393a42dcbbd522b8f0e91",
+  "snow": true
+ },
+ {
+  "bytes": 125646,
+  "file": "winter_13.webp",
+  "sha256": "7bc12db80f50537378abdf2e4d9c173b72ce8a7c524a835a27176b438770b158",
+  "snow": true
+ },
+ {
+  "bytes": 135850,
+  "file": "winter_14.webp",
+  "sha256": "fd60b8bee882cd6e5eb0fdbf3c5ae409654a6f45174c9f8e23b48efa3662ff41",
+  "snow": true
+ },
+ {
+  "bytes": 144604,
+  "calm": true,
+  "file": "winter_15.webp",
+  "sha256": "4fc9202feda087902357cd5988ad84de15c86a973acfbc354881afd296389221",
+  "snow": true
+ },
+ {
+  "bytes": 87922,
+  "file": "winter_16.webp",
+  "sha256": "92d1937ed795869a98b6b221b6dd095aef800fd6bf1497b72d12e6ea79a59de7",
+  "snow": true
+ },
+ {
+  "bytes": 62648,
+  "file": "winter_17.webp",
+  "sha256": "d24d07ffb63e891e8fef3a00f87d25575b5dc2eb3be66892186d7535cc0e3490",
+  "snow": true
+ },
+ {
+  "bytes": 101606,
+  "file": "winter_18.webp",
+  "sha256": "3aa7ff0cad9acfa5a2c45635645d54610561b0a4d67c4cce29bd9d1370ded345",
+  "snow": true
+ },
+ {
+  "bytes": 115974,
+  "calm": true,
+  "file": "winter_19.webp",
+  "sha256": "3a99a72969dee6a12f54b2c6d4320258f838892d79503eff7d3ec8f1df8dba27",
+  "snow": true
+ },
+ {
+  "bytes": 180382,
+  "file": "winter_20.webp",
+  "sha256": "73b3eae7bf58e8c71896b31e59ca48bf9a4b6955fc23c1854576cf905242ea18",
+  "snow": true
+ },
+ {
+  "bytes": 85980,
+  "file": "winter_21.webp",
+  "sha256": "66c7829b0eb00b13b954bd4d122ae72c5878771695330d7a5f643c80f367431d",
+  "snow": true
+ },
+ {
+  "bytes": 133582,
+  "calm": true,
+  "file": "winter_22.webp",
+  "sha256": "628fbb5145b9317c7e667c3c3447be51d44151810882cff9ec0e9c89a653f696",
+  "snow": true
+ },
+ {
+  "bytes": 176740,
+  "file": "winter_23.webp",
+  "sha256": "47ce4eb452d251aefdd95d5e249fc959a84589161972c01e65d1aed3a0053335",
+  "snow": true
+ },
+ {
+  "bytes": 89252,
+  "file": "winter_24.webp",
+  "sha256": "d04765c6883dddf0750febaa8e1e11b31b89648a22100e7e28cf3a315c3bb88a",
+  "snow": true
+ },
+ {
+  "bytes": 91368,
+  "file": "winter_25.webp",
+  "sha256": "5c245d8d1e5c3402757079894e29dd040af462a726a6bcc50be4bee739b797a1",
+  "snow": true
+ },
+ {
+  "bytes": 100040,
+  "calm": true,
+  "file": "winter_26.webp",
+  "sha256": "b156c2d7ee5b26bafba7296433f8af92ff1827f2feedef04d1385cc4397d6b7b",
+  "snow": true
+ },
+ {
+  "bytes": 185396,
+  "calm": true,
+  "file": "winter_27.webp",
+  "sha256": "8914f55d47082031907bd6a77d8195924d8ee101ea02f003b491e869b2ef80e8",
+  "snow": true
+ },
+ {
+  "bytes": 76140,
+  "calm": true,
+  "file": "winter_28.webp",
+  "sha256": "ed923c927c2761ec4baa38a89a58fdb9b6bef349ecd57c8d3758c14d325b7069",
+  "snow": true
+ }
+]

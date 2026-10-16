@@ -1,0 +1,103 @@
+[
+ {
+  "bytes": 121470,
+  "file": "newyear_01.webp",
+  "sha256": "3b25acde4430a04192f9b95c7ca504ba6c4aa08cae7b9aecbe34eae543a407e8"
+ },
+ {
+  "bytes": 66192,
+  "file": "newyear_02.webp",
+  "sha256": "495cf7417582e28d667904401b2c82d945253547fafc7d67a029eb11d8e9cda7"
+ },
+ {
+  "bytes": 156278,
+  "file": "newyear_03.webp",
+  "sha256": "a55b8ef8aa61c6ff7f993f7b4320d0bb660da3c25254027fe28c3218590ffc56"
+ },
+ {
+  "bytes": 128246,
+  "file": "newyear_04.webp",
+  "sha256": "9a8edebd22c0af2bb7d5d78c9a0ea126ddf347a7f5279ad7265713ecbf83673e"
+ },
+ {
+  "bytes": 172900,
+  "file": "newyear_05.webp",
+  "sha256": "814410ec80676740acad7e6c6dd599f6cd1e54a080d35aec4bfe65940c6b3fa4"
+ },
+ {
+  "bytes": 69820,
+  "file": "newyear_06.webp",
+  "sha256": "c6f1b6ce913bfc4ff19ee4f214167a6e07a2328c5c0bcf8f40dd7a76f572f65e"
+ },
+ {
+  "bytes": 115398,
+  "file": "newyear_07.webp",
+  "sha256": "931f9d7bc0f841fd173c1f3eb6b1c79dd588b4fb74a162928815d27a21291be0"
+ },
+ {
+  "bytes": 163966,
+  "file": "newyear_08.webp",
+  "sha256": "54026f8387e89b302ccbac68f79565d1bc9f140d8c79b271e1b76aa4f1b4a97a"
+ },
+ {
+  "bytes": 131358,
+  "file": "newyear_09.webp",
+  "sha256": "6dd3e224b6920a7dd3b9742733395054f2a496e27add6a73b0ae513f8ec2788c"
+ },
+ {
+  "bytes": 169092,
+  "file": "newyear_10.webp",
+  "sha256": "b8f4863adecf07e745aa7cad39ae088c9daa14c80c77e704c018eca762ec0ec2",
+  "snow": true
+ },
+ {
+  "bytes": 140874,
+  "file": "newyear_11.webp",
+  "sha256": "574e49b5f67294eae146de28c5a68b38eb5e749ba8c8b51487d81e0d712fe195"
+ },
+ {
+  "bytes": 188094,
+  "file": "newyear_12.webp",
+  "sha256": "c4626955971853fb80e3a398313ae8665de578a08b8ab77029fd9de41eff9fd4"
+ },
+ {
+  "bytes": 119174,
+  "file": "newyear_13.webp",
+  "sha256": "f5f4a903fda987af6ba634d9ab660cb6b2f0b0bc2d86a23ec50e95c63386310d"
+ },
+ {
+  "bytes": 55036,
+  "file": "newyear_14.webp",
+  "sha256": "7e2496ff2a7f2862d34bf745e1ea87b00fc383cc2db84075ba8e9fd45c2d5f35"
+ },
+ {
+  "bytes": 117868,
+  "file": "newyear_15.webp",
+  "sha256": "11d61b870c34e984e28e870f9abcc3b89e9a60b5816972f4bf30844a73700f01"
+ },
+ {
+  "bytes": 94600,
+  "file": "newyear_16.webp",
+  "sha256": "b1de3d726a9ca471df3bc2cc75b08a2768eab0f96f105c920db6968efe171a4a"
+ },
+ {
+  "bytes": 140432,
+  "file": "newyear_17.webp",
+  "sha256": "8f2197feca53f6b6dc9ccaa3a6b44f744614784a12ce287601d7a4394dbedb36"
+ },
+ {
+  "bytes": 189718,
+  "file": "newyear_18.webp",
+  "sha256": "362049302645086094ff069094f0c5bcf673fc6ceb53fff4edb38dabd487fab6"
+ },
+ {
+  "bytes": 115016,
+  "file": "newyear_19.webp",
+  "sha256": "b0ef30379c8586726812c4c736cf37917bf871143454372fa973747ee5879b94"
+ },
+ {
+  "bytes": 190548,
+  "file": "newyear_20.webp",
+  "sha256": "5916600bda7cfe210138c60a7034a4bd8d447f1dc9981cc50af132d5d034baf7"
+ }
+]

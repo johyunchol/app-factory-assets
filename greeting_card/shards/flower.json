@@ -1,0 +1,102 @@
+[
+ {
+  "bytes": 73236,
+  "file": "flower_01.webp",
+  "sha256": "7abbf349f94e9108cd5ad35eff3eee7f7e7aaad690d65cafaa5371eb234d0f6a"
+ },
+ {
+  "bytes": 84788,
+  "file": "flower_02.webp",
+  "sha256": "80572a30f2599d2eb25622586cbedee3c9ff457f32239c64a509c15a9714ba66"
+ },
+ {
+  "bytes": 74426,
+  "file": "flower_03.webp",
+  "sha256": "e00484f5dad4a1521bdeff6a26af5d59aaf5f643d34c007dfc1142eaeba1f5ab"
+ },
+ {
+  "bytes": 79440,
+  "file": "flower_04.webp",
+  "sha256": "a98b19cfcaf0e2e0b6e20387fbdad64ff8dba9d59035694851cd067a6c03f2d7"
+ },
+ {
+  "bytes": 91502,
+  "file": "flower_05.webp",
+  "sha256": "029a68e5a2ee8323c1749d82b669815af8a7094cf8b2c750ea3caf53c35b587b"
+ },
+ {
+  "bytes": 74162,
+  "file": "flower_06.webp",
+  "sha256": "b6d6f540a48227ed1ace2e45942ffbc59b7cbd997bdb4a6f2faca3eacc09fb02"
+ },
+ {
+  "bytes": 76156,
+  "file": "flower_07.webp",
+  "sha256": "558bf9aa00daf01568e7ca00c344f99c892d09c709d688486a5d848263d99f91"
+ },
+ {
+  "bytes": 113548,
+  "file": "flower_08.webp",
+  "sha256": "2190e6ab61bb58509cc67b0ea279983cdd7382c4d048700966949ad7be1fcb49"
+ },
+ {
+  "bytes": 108502,
+  "file": "flower_09.webp",
+  "sha256": "6d7a8839e4ba35d472968ab751c823bfcdf0ac4bf36052539e977f148fc253a8"
+ },
+ {
+  "bytes": 77312,
+  "file": "flower_10.webp",
+  "sha256": "0f56b8baabce38a99044333fe1149edc3a60ec49792908880dfdbbf7fe0fc9e7"
+ },
+ {
+  "bytes": 86886,
+  "file": "flower_11.webp",
+  "sha256": "593c21d5d4c36a6eb678aab888f4073e635d9476965d9f23c837d8e70efd7b01"
+ },
+ {
+  "bytes": 101880,
+  "file": "flower_12.webp",
+  "sha256": "5eb987756361d0399faf8a288db408867c8bed7983d0373103727fcec2771e93"
+ },
+ {
+  "bytes": 89710,
+  "file": "flower_13.webp",
+  "sha256": "af965616f685fc55fb1c373b407ee96ed44e88c18b601c5e080ecaed58491134"
+ },
+ {
+  "bytes": 96124,
+  "file": "flower_14.webp",
+  "sha256": "5e6ab6743b546f1ff3532ae7f81be38ddf05a77a00873a6797dfb6d2f024bdb2"
+ },
+ {
+  "bytes": 77748,
+  "file": "flower_15.webp",
+  "sha256": "1eef2715244833c6445a7a6a559a1ccab704295e75c6c0f11550bbf63e8f1a49"
+ },
+ {
+  "bytes": 53160,
+  "file": "flower_16.webp",
+  "sha256": "0bacecd7b92efd2886766c9006c0ef4e442747ed6405b1ac6a96f6cf4fa3c8bd"
+ },
+ {
+  "bytes": 103204,
+  "file": "flower_17.webp",
+  "sha256": "93be122ba506fabed8713b8b3c30b400aeb55c81d98613d96b00c573c4e233bd"
+ },
+ {
+  "bytes": 115904,
+  "file": "flower_18.webp",
+  "sha256": "91bf2b8f244dd80526365335441061cd0fc6abf9626660e1dc4e841db3fac242"
+ },
+ {
+  "bytes": 93254,
+  "file": "flower_19.webp",
+  "sha256": "14cb9b2c991c5aee0810961952ca0df4b2064c171e45df491a11e58bd658fda7"
+ },
+ {
+  "bytes": 91048,
+  "file": "flower_20.webp",
+  "sha256": "68978b714f17b40bee2fad429624891a133831f0b15f24873b8ada86fe68524f"
+ }
+]

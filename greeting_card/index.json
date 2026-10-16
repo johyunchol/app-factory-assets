@@ -1,0 +1,67 @@
+{
+ "base_path": "bg/",
+ "credits": {
+  "count": 120,
+  "models": [
+   "gpt-6.1-sol"
+  ],
+  "terms": [
+   "OpenAI Terms of Use (outputs owned by user, commercial use permitted) — checked 2026-10-15"
+  ],
+  "tools": [
+   "Codex built-in image generation (Paseo)"
+  ]
+ },
+ "shards": [
+  {
+   "count": 10,
+   "file": "shards/early_autumn.json",
+   "id": "early_autumn",
+   "sha256": "27ed724ed8218c5b360b2c4ce4aa9a32d4d3370a05226e0651f1131d1256b176"
+  },
+  {
+   "count": 18,
+   "file": "shards/late_autumn.json",
+   "id": "late_autumn",
+   "sha256": "6ffad40194e17431362fe6384eb4fa52a156cd443508386417825b4968a1be5d"
+  },
+  {
+   "count": 28,
+   "file": "shards/winter.json",
+   "id": "winter",
+   "sha256": "5876836341d9feeea6fbe942ac80d4723dafe43d358acb8aa2d96dbe24520d00"
+  },
+  {
+   "count": 20,
+   "file": "shards/newyear.json",
+   "id": "newyear",
+   "sha256": "225bc4319510ce6a2efb2dab69fa95d3274094a8725e34b55a0fb86e3d07ddac"
+  },
+  {
+   "count": 12,
+   "file": "shards/spring.json",
+   "id": "spring",
+   "sha256": "4ccf453b63d718894a45aac1f0b4b0d85ec0fb5b04e9760ad85c7ee6a7b7a11b"
+  },
+  {
+   "count": 20,
+   "file": "shards/flower.json",
+   "id": "flower",
+   "sha256": "93d9f5fbd2efa6ffab517559f15a9e952a62f135e5389d90fcf2f5417fd4efc8"
+  },
+  {
+   "count": 12,
+   "file": "shards/summer.json",
+   "id": "summer",
+   "sha256": "76d1d5928cd26e8238dabbcdf45b0de789b4c70c7d0ea441b17c776b38ce4f38"
+  },
+  {
+   "count": 16,
+   "file": "shards/calm.json",
+   "id": "calm",
+   "sha256": "3ca307df3982145fcfca64781b6746e4c2701c922e13c809d8092dbb0dd920d9"
+  }
+ ],
+ "updated": "2026-10-16",
+ "version": 2
+}

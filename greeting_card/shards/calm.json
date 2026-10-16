@@ -1,0 +1,124 @@
+[
+ {
+  "bytes": 179770,
+  "calm": true,
+  "file": "late_autumn_06.webp",
+  "season": "late_autumn",
+  "sha256": "5ae81ab041dabe07c39f2057956240739775f25cbae5ae74c699c72a58a81409"
+ },
+ {
+  "bytes": 190120,
+  "calm": true,
+  "file": "late_autumn_07.webp",
+  "season": "late_autumn",
+  "sha256": "ae21fc1cce660d441b9787e8faadadbf1e40f83b1572f3c7855b22ce34f9cf4f"
+ },
+ {
+  "bytes": 85274,
+  "calm": true,
+  "file": "late_autumn_13.webp",
+  "season": "late_autumn",
+  "sha256": "64dd5a5f20cfb53c6656146dfabf474e6061be213e56d327d771b3f335d2ba76"
+ },
+ {
+  "bytes": 188670,
+  "calm": true,
+  "file": "late_autumn_16.webp",
+  "season": "late_autumn",
+  "sha256": "bab7704e5c9237dbb344e2afb4ecfd1047e04b31a1566d398b6fcc1e13b80bde"
+ },
+ {
+  "bytes": 99444,
+  "calm": true,
+  "file": "late_autumn_17.webp",
+  "season": "late_autumn",
+  "sha256": "b9729e38e6fd00422d03c24f7e272afb14a9fb6c0e7ea8478e261b3d244b1cfb"
+ },
+ {
+  "bytes": 97394,
+  "calm": true,
+  "file": "late_autumn_18.webp",
+  "season": "late_autumn",
+  "sha256": "654197be6d0eea8340dddd122b933409a0671157519ffd77d4ca58ca2b5bceae"
+ },
+ {
+  "bytes": 164654,
+  "calm": true,
+  "file": "winter_03.webp",
+  "season": "winter",
+  "sha256": "09112f4fe8266bab0a92753026093b1479d2f55c31776e23e57d883cc83d6391",
+  "snow": true
+ },
+ {
+  "bytes": 136286,
+  "calm": true,
+  "file": "winter_08.webp",
+  "season": "winter",
+  "sha256": "8ee9378d53927443d27f454e91b8aab9dfb0a91ffecd3754a23fa5f82d75d576",
+  "snow": true
+ },
+ {
+  "bytes": 106112,
+  "calm": true,
+  "file": "winter_10.webp",
+  "season": "winter",
+  "sha256": "3341503e0692464334072675ac9a5535c8e98f8fd3329f67c52dd5561a2a0167",
+  "snow": true
+ },
+ {
+  "bytes": 178646,
+  "calm": true,
+  "file": "winter_12.webp",
+  "season": "winter",
+  "sha256": "f66a79f5ae34da54015453bc1c8520c8cf402aab8a3393a42dcbbd522b8f0e91",
+  "snow": true
+ },
+ {
+  "bytes": 144604,
+  "calm": true,
+  "file": "winter_15.webp",
+  "season": "winter",
+  "sha256": "4fc9202feda087902357cd5988ad84de15c86a973acfbc354881afd296389221",
+  "snow": true
+ },
+ {
+  "bytes": 115974,
+  "calm": true,
+  "file": "winter_19.webp",
+  "season": "winter",
+  "sha256": "3a99a72969dee6a12f54b2c6d4320258f838892d79503eff7d3ec8f1df8dba27",
+  "snow": true
+ },
+ {
+  "bytes": 133582,
+  "calm": true,
+  "file": "winter_22.webp",
+  "season": "winter",
+  "sha256": "628fbb5145b9317c7e667c3c3447be51d44151810882cff9ec0e9c89a653f696",
+  "snow": true
+ },
+ {
+  "bytes": 100040,
+  "calm": true,
+  "file": "winter_26.webp",
+  "season": "winter",
+  "sha256": "b156c2d7ee5b26bafba7296433f8af92ff1827f2feedef04d1385cc4397d6b7b",
+  "snow": true
+ },
+ {
+  "bytes": 185396,
+  "calm": true,
+  "file": "winter_27.webp",
+  "season": "winter",
+  "sha256": "8914f55d47082031907bd6a77d8195924d8ee101ea02f003b491e869b2ef80e8",
+  "snow": true
+ },
+ {
+  "bytes": 76140,
+  "calm": true,
+  "file": "winter_28.webp",
+  "season": "winter",
+  "sha256": "ed923c927c2761ec4baa38a89a58fdb9b6bef349ecd57c8d3758c14d325b7069",
+  "snow": true
+ }
+]

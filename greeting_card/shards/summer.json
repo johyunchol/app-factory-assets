@@ -1,0 +1,62 @@
+[
+ {
+  "bytes": 86234,
+  "file": "summer_01.webp",
+  "sha256": "e218368b025d84ba3c1336aa881af3772de3d7435b981f299f1a072b565293cd"
+ },
+ {
+  "bytes": 175956,
+  "file": "summer_02.webp",
+  "sha256": "613baf2b2657a46f5c5633ddbe602769c3885ab479d7d972492f22689a558e45"
+ },
+ {
+  "bytes": 173278,
+  "file": "summer_03.webp",
+  "sha256": "63343def0ae584d65e9af20a2645ce9f640c643e80c04acf0c7eb0ffd911d181"
+ },
+ {
+  "bytes": 100206,
+  "file": "summer_04.webp",
+  "sha256": "49fae97e2cfcaadcee0c8b5c0965cddcd9f53774bfe89290d97df8bc2cce9650"
+ },
+ {
+  "bytes": 91658,
+  "file": "summer_05.webp",
+  "sha256": "2ba7c72519acacabee5ec758f74db1f331777bcf7cf680da3e97f6cd5183a774"
+ },
+ {
+  "bytes": 192040,
+  "file": "summer_06.webp",
+  "sha256": "1974b9a2b19c081e595a0499af563c87c8821b0efaf766432a603554d4f0d47f"
+ },
+ {
+  "bytes": 77186,
+  "file": "summer_07.webp",
+  "sha256": "03dfc06c8fba519bb205335f9f19b4a344cdd510dd1813fafecf0a95b05032b2"
+ },
+ {
+  "bytes": 128354,
+  "file": "summer_08.webp",
+  "sha256": "797c446925727053ea0c45fa2d4ca3b00adda16b8ffc37744cb2e76009348c8b"
+ },
+ {
+  "bytes": 139416,
+  "file": "summer_09.webp",
+  "sha256": "cc0d7a30940dc70e4ac91b8d7c6828f933f0a0c365e3a9351952de8f18ef4a0a"
+ },
+ {
+  "bytes": 126494,
+  "file": "summer_10.webp",
+  "sha256": "f97ea64a88b7cbd8399e223239caef21644b434e3cd3c2772e0c969e54ced390"
+ },
+ {
+  "bytes": 126612,
+  "file": "summer_11.webp",
+  "sha256": "7f75ac0d9d24ea74bbb3285ee7ea0d0a6909498cf06f7255bad857ff4045a07b"
+ },
+ {
+  "bytes": 190432,
+  "file": "summer_12.webp",
+  "sha256": "b877392a4a28092d7f6c03396cd409941ab093d6ae24edaa548ca64938b324c5"
+ }
+]
